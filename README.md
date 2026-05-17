@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Giulia 😁
+## Bem-vindo ao perfil da Giulia 😁
 
  <div>
    <a href="https://github.com/giuliabertoso">
